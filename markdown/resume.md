@@ -6,7 +6,7 @@ Education
 ---------
 
 2017-2021
-:   **Bs.Sc., Computer Engineering**; Purdue University (West Lafayette, IN)
+:   **Bs.Sc. Computer Engineering**; Purdue University (West Lafayette, IN)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
