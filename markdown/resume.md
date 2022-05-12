@@ -20,7 +20,7 @@ Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
 links:
 
-* First item
+* 35,000 daily active users
 
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
@@ -31,6 +31,9 @@ Also with a short description.
 
 Project Experience
 --------------------
+finekey wiskers
+:   For items which don't have a clear time ordering, a definition
+    list can be us
 
 oftheday
 :   For items which don't have a clear time ordering, a definition
