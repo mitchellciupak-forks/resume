@@ -32,8 +32,7 @@ Also with a short description.
 Project Experience
 --------------------
 finekey wiskers
-:   For items which don't have a clear time ordering, a definition
-    list can be us
+:   Kube Docker WASM and Static Front End
 
 oftheday
 :   For items which don't have a clear time ordering, a definition
